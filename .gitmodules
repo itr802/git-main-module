@@ -1,3 +1,0 @@
-[submodule "reference/git-sub-module"]
-	path = reference/git-sub-module
-	url = https://github.com/itr802/git-sub-module.git
